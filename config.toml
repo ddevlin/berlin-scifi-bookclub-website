@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://berlinscifibook.club/"
+baseURL = "https://www.berlinscifibook.club/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
