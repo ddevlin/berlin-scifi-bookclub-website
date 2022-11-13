@@ -1,0 +1,20 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Berlin Science Fiction Book Club"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Berlin Science Fiction Book Club"
+  image = "images/logo-dark.png"
+  headline = "These *are* the books you're looking for"
+  bio = "These *are* the books you're looking for"
+  # links = [
+  #    { meetup = "https://www.meetup.com/berlin-science-fiction-book-club/" },
+  #    { discourse = "https://forum.berlinscifibook.club/" }
+  #]
