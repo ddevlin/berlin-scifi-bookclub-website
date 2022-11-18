@@ -161,29 +161,30 @@ showReadingTime: false
 
 ### 2016
 
-| Month     | Type  | Title                              | Author               | Year |
-| --------- | ----- | ---------------------------------- | -------------------- | ---- |
-| December  | Main  | V for Vendetta                     | Alan Moore           | 1982 |
-| November  | Main  | Ubik                               | Philip K Dick        | 1969 |
-|           | Main  | Red Mars                           | Kim Stanley Robinson | 1992 |
-|           | Short | Story of Your Life                 | Ted Chiang           | 1998 |
-|           | Short | September 2005: The Martian        | Ray Bradbury         | 1951 |
-| October   | Main  | The Long Tomorrow                  | Leigh Brackett       | 1955 |
-| September | Main  | Use of Weapons                     | Ian M. Banks         | 1990 |
-|           | Main  | The Yiddish Policemen's Union      | Michael Chabon       | 2007 |
-|           | Short | Cat Pictures Please                | Naomi Kritzer        | 2015 |
-|           | Short | Litany of Earth                    | Ruthanna Emrys       | 2014 |
-| August    | Main  | Blindsight                         | Peter Watts          | 2006 |
-|           | Short | The Ones Who Walk Away from Omelas | Ursula K. Le Guin    | 1973 |
-| July      | Main  | Solaris                            | Stanisław Lem        | 1961 |
-|           | Main  | Planet of Adventure                | Jack Vance           | 1968 |
-| May       | Main  | Slan                               | A. E. van Vogt       | 1946 |
-| April     | Main  | 2312                               | Kim Stanley Robinson | 2012 |
-| March     | Main  | High-Rise                          | J. G. Ballard        | 1975 |
-|           | Main  | The Calcutta Chromosome            | Amitav Ghosh         | 1995 |
-|           | Main  | The Prophecy of Trivine            | Tnahsin Garg         | 2013 |
-| February  | Main  | The Three Body Problem             | Cixin Liu            | 2008 |
-| January   | Main  | Short stories                      | Philip K. Dick       | 2014 |
+| Month     | Type  | Title                              | Author                                    | Year |
+| --------- | ----- | ---------------------------------- | ----------------------------------------- | ---- |
+| December  | Main  | V for Vendetta                     | Alan Moore                                | 1982 |
+| November  | Main  | Ubik                               | Philip K Dick                             | 1969 |
+|           | Main  | Red Mars                           | Kim Stanley Robinson                      | 1992 |
+|           | Short | Story of Your Life                 | Ted Chiang                                | 1998 |
+|           | Short | September 2005: The Martian        | Ray Bradbury                              | 1951 |
+| October   | Main  | The Long Tomorrow                  | Leigh Brackett                            | 1955 |
+| September | Main  | Use of Weapons                     | Ian M. Banks                              | 1990 |
+|           | Main  | The Yiddish Policemen's Union      | Michael Chabon                            | 2007 |
+|           | Short | Cat Pictures Please                | Naomi Kritzer                             | 2015 |
+|           | Short | Litany of Earth                    | Ruthanna Emrys                            | 2014 |
+| August    | Main  | Blindsight                         | Peter Watts                               | 2006 |
+|           | Short | The Ones Who Walk Away from Omelas | Ursula K. Le Guin                         | 1973 |
+| July      | Main  | Solaris                            | Stanisław Lem                             | 1961 |
+|           | Main  | Planet of Adventure                | Jack Vance                                | 1968 |
+| June      | Main  | Roadside Picnic                    | Arkady Strugatsky <br /> Boris Strugatsky | 1972 |
+| May       | Main  | Slan                               | A. E. van Vogt                            | 1946 |
+| April     | Main  | 2312                               | Kim Stanley Robinson                      | 2012 |
+| March     | Main  | High-Rise                          | J. G. Ballard                             | 1975 |
+|           | Main  | The Calcutta Chromosome            | Amitav Ghosh                              | 1995 |
+|           | Main  | The Prophecy of Trivine            | Tnahsin Garg                              | 2013 |
+| February  | Main  | The Three Body Problem             | Cixin Liu                                 | 2008 |
+| January   | Main  | Short stories                      | Philip K. Dick                            | 2014 |
 
 ### 2015
 
