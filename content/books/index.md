@@ -8,10 +8,9 @@ showReadingTime: false
 ---
 
 ## Upcoming books
-| Month    | Type | Title                  | Author          | Year | Pages |
-| -------- | ---- | ---------------------- | --------------- | ---- | ----- |
-| November | Main | Hummingbird Salamander | Jeff VanderMeer | 2021 | 351   |
-| December | Main | Ancestral Night        | Elizabeth Bear  | 2019 | 512   |
+| Month    | Type | Title           | Author         | Year | Pages |
+| -------- | ---- | --------------- | -------------- | ---- | ----- |
+| December | Main | Ancestral Night | Elizabeth Bear | 2019 | 512   |
 
 ## Previous books
 
@@ -19,6 +18,7 @@ showReadingTime: false
 
 | Month     | Type  | Title                       | Author             | Year      | Pages |
 | --------- | ----- | --------------------------- | ------------------ | --------- | ----- |
+| November  | Main  | Hummingbird Salamander      | Jeff VanderMeer    | 2021      | 351   |
 | October   | Main  | Architects of Memory        | Karen Osborn       | 2020      | 366   |
 |           | Bonus | Terra Ignota Series         | Ada Palmer         | 2016-2021 | 1632  |
 | September | Main  | Klara and the Sun           | Kazuo Ishiguro     | 2021      | 307   |
