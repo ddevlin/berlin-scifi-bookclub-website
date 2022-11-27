@@ -11,7 +11,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Berlin Science Fiction Book Club"
-  image = "images/logo-dark.png"
+  image = "images/logo.png"
   headline = "These *are* the books you're looking for"
   bio = "These *are* the books you're looking for"
   # links = [
