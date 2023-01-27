@@ -85,7 +85,7 @@ showReadingTime: false
 | June      | Main  | Qualityland                | Marc-Uwe Kling                     | 2017      | 360   |
 | May       | Main  | The Sheep Look Up          | John Brunner                       | 1972      | 388   |
 | April     | Main  | The Mote in God's Eye      | Larry Niven <br /> Jerry Pournelle | 1974      | 537   |
-| March     | Main  | Station Eleven             | Emily St.John Mandel               | 2014      | 336   |
+| March     | Main  | Station Eleven             | Emily St. John Mandel              | 2014      | 336   |
 | February  | Main  | Gideon the Ninth           | Tamsyn Muir                        | 2019      | 448   |
 | January   | Main  | Piranesi                   | Susanna Clarke                     | 2020      | 272   |
 
