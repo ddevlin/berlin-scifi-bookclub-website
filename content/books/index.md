@@ -64,7 +64,7 @@ showReadingTime: false
 |           | Bonus | Starship Troopers           | Robert A. Heinlein | 1959      | 263   |
 | March     | Main  | Too Like the Lightning      | Ada Palmer         | 2016      | 432   |
 | February  | Main  | A Psalm for the Wild Built  | Becky Chambers     | 2021      | 160   |
-|           |       | At the Mountains of Madness | H. P. Lovecraft    | 1936      | 194   |
+|           | Main  | At the Mountains of Madness | H. P. Lovecraft    | 1936      | 194   |
 | January   | Main  | The High-Rise Diver         | Julia von Lucadou  | 2018      | 264   |
 
 ### 2021
@@ -104,7 +104,7 @@ showReadingTime: false
 | March     | Main | Earthsea Trilogy                      | Ursula K. Le Guin                   | 1968-1972 | 591   |
 | February  | Main | Hyperion                              | Dan Simmons                         | 1989      | 482   |
 | January   | Main | This is How You Lose the Time War     | Amal el-Mohtar <br /> Max Gladstone | 2019      | 208   |
-|           |      | The Psychology of Time Travel         | Kate Mascarenhas                    | 2018      | 336   |
+|           | Main | The Psychology of Time Travel         | Kate Mascarenhas                    | 2018      | 336   |
 
 ### 2019
 
@@ -113,7 +113,7 @@ showReadingTime: false
 | December  | Short | Overtime                                | Charles Stross                            | 2010 | 32    |
 | November  | Main  | The Testaments                          | Margaret Atwood                           | 2019 | 432   |
 | October   | Main  | Parable of the Sower                    | Octavia Butler                            | 1993 | 299   |
-|           |       | Parable of the Talents                  | Octavia Butler                            | 1998 | 365   |
+|           | Main  | Parable of the Talents                  | Octavia Butler                            | 1998 | 365   |
 | September | Main  | The Overstory                           | Richard Powers                            | 2018 | 612   |
 | August    | Main  | Hard to be a God                        | Arkady Strugatsky <br /> Boris Strugatsky | 1964 | 256   |
 |           | Short | The Island of the Immortals             | Ursula K. Le Guin                         | 1998 | 9     |
@@ -135,7 +135,7 @@ showReadingTime: false
 
 | Month     | Type  | Title                                                                 | Author               | Year |
 | --------- | ----- | --------------------------------------------------------------------- | -------------------- | ---- |
-| November  | Main  | All Systems Red (Murderbot Diaries) by                                | Martha Wells         | 2017 |
+| November  | Main  | All Systems Red (Murderbot Diaries)                                   | Martha Wells         | 2017 |
 |           | Main  | The Freeze-Frame Revolution                                           | Peter Watts          | 2018 |
 | October   | Main  | Walkaway                                                              | Cory Doctorow        | 2017 |
 |           | Short | The Poetry Cloud                                                      | Cixin Liu            | 2003 |
@@ -175,7 +175,7 @@ showReadingTime: false
 | October   | Main  | Trouble on Triton                                      | Samuel R. Delany   | 1976 |
 |           | Short | When it Changed                                        | Joanna Russ        | 1972 |
 | September | Main  | The Iron Dream                                         | Norman Spinrad     | 1972 |
-|           |       | The Space Traders                                      | Derrick Bell       | 1992 |
+|           | Short | The Space Traders                                      | Derrick Bell       | 1992 |
 | August    | Main  | The Unit                                               | Ninni Holmqvist    | 2006 |
 |           | Short | Tomorrow and Tomorrow                                  | Mary Anne Mohanraj | 2017 |
 | July      | Main  | The City & the City                                    | China Miéville     | 2009 |
