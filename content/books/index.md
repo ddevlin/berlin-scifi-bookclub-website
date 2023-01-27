@@ -8,33 +8,33 @@ showReadingTime: false
 ---
 
 ## Upcoming books
-| Month     | Type  | Title                                | Author                                    | Year      | Pages |
-| --------- | ----- | ------------------------------------ | ----------------------------------------- | --------- | ----- |
-| February  | Main  | Sea of Tranquility                   | Emily St. John Mandel                     | 2022      | 255   |
-|           | Bonus | Light                                | M. John Harrison                          | 2002      | 310   |
-| March     | Main  | Terminal Boredom                     | Izumi Suzuki                              | 2021      | 218   |
-|           | Bonus | Flowers For Algernon                 | Daniel Keyes                              | 1959      | 216   |
-|           | Bonus | A Memory Called Empire               | Arkady Martine                            | 2019      | 462   |
-| April     | Main  | The Employees                        | Olga Ravn                                 | 2018      | 136   |
-|           | Bonus | My Real Children                     | Jo Walton                                 | 2014      | 320   |
-|           | Bonus | Roadside Picnic                      | Arkady Strugatsky <br /> Boris Strugatsky | 1972      | 145   |
-| May       | Main  | Do Androids Dream of Electric Sheep? | Philip K. Dick                            | 1968      | 210   |
-|           | Bonus | Slaughterhouse-Five                  | Kurt Vonnegut Jr.                         | 1969      | 275   |
-|           | Bonus | The Sirens Of Titan                  | Kurt Vonnegut Jr.                         | 1959      | 224   |
-| June      | Main  | Eversion                             | Alastair Reynolds                         | 2022      | 308   |
-|           | Bonus | Revenger                             | Alastair Reynolds                         | 2016      | 425   |
-|           | Bonus | The Murderbot Diaries (Series)       | Martha Wells                              | 2017-2021 | 1154  |
-| July      | Main  | Elder Race                           | Adrian Tchaikovsky                        | 2021      | 201   |
-|           | Main  | The Lathe of Heaven                  | Ursula K. Le Guin                         | 1971      | 176   |
-| August    | Main  | Axiomatic                            | Greg Egan                                 | 1990      | 293   |
-|           | Main  | Diaspora                             | Greg Egan                                 | 1997      | 443   |
-| September | Main  | The Ministry for the Future          | Kim Stanley Robinson                      | 2020      | 563   |
-|           | Main  | Aurora                               | Kim Stanley Robinson                      | 2015      | 466   |
-| October   | Main  | Before the Coffee Gets Cold          | Toshikazu Kawaguchi                       | 2015      | 213   |
-|           | Main  | Bloodchild And Other Stories         | Octavia E. Butler                         | 1995      | 214   |
-| November  | Main  | Binti                                | Nnedi Okorafor                            | 2015      | 96    |
-|           | Main  | Remote Control                       | Nnedi Okorafor                            | 2021      | 156   |
-| December  | Main  | Fahrenheit 451                       | Ray Bradbury                              | 1953      | 194   |
+| Month     | Type  | Title                                       | Author                                    | Year      | Pages |
+| --------- | ----- | ------------------------------------------- | ----------------------------------------- | --------- | ----- |
+| February  | Main  | Sea of Tranquility                          | Emily St. John Mandel                     | 2022      | 255   |
+|           | Bonus | Light                                       | M. John Harrison                          | 2002      | 310   |
+| March     | Main  | Terminal Boredom                            | Izumi Suzuki                              | 2021      | 218   |
+|           | Bonus | Flowers For Algernon                        | Daniel Keyes                              | 1959      | 216   |
+|           | Bonus | A Memory Called Empire                      | Arkady Martine                            | 2019      | 462   |
+| April     | Main  | The Employees                               | Olga Ravn                                 | 2018      | 136   |
+|           | Bonus | My Real Children                            | Jo Walton                                 | 2014      | 320   |
+|           | Bonus | Roadside Picnic                             | Arkady Strugatsky <br /> Boris Strugatsky | 1972      | 145   |
+| May       | Main  | Do Androids Dream of <br /> Electric Sheep? | Philip K. Dick                            | 1968      | 210   |
+|           | Bonus | Slaughterhouse-Five                         | Kurt Vonnegut Jr.                         | 1969      | 275   |
+|           | Bonus | The Sirens Of Titan                         | Kurt Vonnegut Jr.                         | 1959      | 224   |
+| June      | Main  | Eversion                                    | Alastair Reynolds                         | 2022      | 308   |
+|           | Bonus | Revenger                                    | Alastair Reynolds                         | 2016      | 425   |
+|           | Bonus | The Murderbot Diaries (Series)              | Martha Wells                              | 2017-2021 | 1154  |
+| July      | Main  | Elder Race                                  | Adrian Tchaikovsky                        | 2021      | 201   |
+|           | Main  | The Lathe of Heaven                         | Ursula K. Le Guin                         | 1971      | 176   |
+| August    | Main  | Axiomatic                                   | Greg Egan                                 | 1990      | 293   |
+|           | Main  | Diaspora                                    | Greg Egan                                 | 1997      | 443   |
+| September | Main  | The Ministry for the Future                 | Kim Stanley Robinson                      | 2020      | 563   |
+|           | Main  | Aurora                                      | Kim Stanley Robinson                      | 2015      | 466   |
+| October   | Main  | Before the Coffee Gets Cold                 | Toshikazu Kawaguchi                       | 2015      | 213   |
+|           | Main  | Bloodchild And Other Stories                | Octavia E. Butler                         | 1995      | 214   |
+| November  | Main  | Binti                                       | Nnedi Okorafor                            | 2015      | 96    |
+|           | Main  | Remote Control                              | Nnedi Okorafor                            | 2021      | 156   |
+| December  | Main  | Fahrenheit 451                              | Ray Bradbury                              | 1953      | 194   |
 
 ## Previous books
 
