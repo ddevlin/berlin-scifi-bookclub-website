@@ -8,19 +8,50 @@ showReadingTime: false
 ---
 
 ## Upcoming books
-| Month    | Type  | Title              | Author                | Year | Pages |
-| -------- | ----- | ------------------ | --------------------- | ---- | ----- |
-| November | Main  | Binti              | Nnedi Okorafor        | 2015 | 96    |
-|          | Main  | Remote Control     | Nnedi Okorafor        | 2021 | 156   |
-|          | Bonus | Deep Wheel Orcadia | Harry Josephine Giles | 2021 | 166   |
-| December | Main  | Fahrenheit 451     | Ray Bradbury          | 1953 | 194   |
+
+| Month     | Type | Title                        | Author             | Year | Pages |
+| --------- | ---- | ---------------------------- | ------------------ | ---- | ----- |
+| April     | Main | The Spear Cuts Through Water | Simon Jimenez      | 2022 | 544   |
+| May       | Main | Parable of the Sower         | Octavia E. Butler  | 1993 | 345   |
+|           | Main | Wool                         | Hugh Howey         | 2012 | 530   |
+| June      | Main | Embassytown                  | China Miéville     | 2011 | 345   |
+|           | Main | The Left Hand of Darkness    | Ursula K. Le Guin  | 1969 | 304   |
+| July      | Main | I Who Have Never Known Men   | Jacqueline Harpman | 1995 | 208   |
+|           | Main | Lilith's Brood               | Octavia E. Butler  | 1987 | 746   |
+| August    | Main | Her Smoke Rose Up Forever    | James Tiptree Jr.  | 1990 | 508   |
+|           | Main | The Martian Chronicles       | Ray Bradbury       | 1950 | 182   |
+| September | Main | Translation State            | Ann Leckie         | 2023 | 422   |
+|           | Main | Cwen                         | Alice Albinia      | 2021 | 352   |
+| October   | Main | Annihilation                 | Jeff VanderMeer    | 2014 | 195   |
+|           | Main | Always Coming Home           | Ursula K. Le Guin  | 1985 | 525   |
+| November  | Main | Infinity Gate                | M. R. Carey        | 2023 | 544   |
+|           | Main | An Unkindness of Ghosts      | Rivers Solomon     | 2017 | 351   |
+| December  | Main | Light From Uncommon Stars    | Ryka Aoki          | 2021 | 372   |
+|           | Main | The Three Body Problem       | Cixin Liu          | 2006 | 472   |
 
 ## Previous books
+
+### 2024
+
+| Month    | Type  | Title                      | Author           | Year | Pages |
+| -------- | ----- | -------------------------- | ---------------- | ---- | ----- |
+| January  | Main  | Notes from the Burning Age | Claire North     | 2021 | 401   |
+|          | Main  | The Mountain in the Sea    | Ray Nayler       | 2022 | 456   |
+|          | Bonus | Red Team Blues             | Cory Doctorow    | 2023 | 213   |
+| February | Main  | The Power                  | Naomi Alderman   | 2016 | 341   |
+|          | Main  | Woman on the Edge of Time  | Marge Piercy     | 1976 | 376   |
+| March    | Main  | Venomous Lumpsucker        | Ned Beauman      | 2022 | 336   |
+|          | Main  | Oryx and Crake             | Margaret Atwood  | 2003 | 389   |
+| April    | Main  | 2001: A Space Odyssey      | Arthur C. Clarke | 1968 | 297   |
 
 ### 2023
 
 | Month     | Type  | Title                                       | Author                                    | Year      | Pages |
 | --------- | ----- | ------------------------------------------- | ----------------------------------------- | --------- | ----- |
+| December  | Main  | Fahrenheit 451                              | Ray Bradbury                              | 1953      | 194   |
+| November  | Main  | Binti                                       | Nnedi Okorafor                            | 2015      | 96    |
+|           | Main  | Remote Control                              | Nnedi Okorafor                            | 2021      | 156   |
+|           | Bonus | Deep Wheel Orcadia                          | Harry Josephine Giles                     | 2021      | 166   |
 | October   | Main  | Before the Coffee Gets Cold                 | Toshikazu Kawaguchi                       | 2015      | 213   |
 |           | Main  | Bloodchild And Other Stories                | Octavia E. Butler                         | 1995      | 214   |
 | September | Main  | The Ministry for the Future                 | Kim Stanley Robinson                      | 2020      | 563   |
@@ -131,7 +162,6 @@ showReadingTime: false
 | January   | Main  | Star Maker                              | Olaf Stapledon                            | 1937 | 339   |
 |           | Short | The Star                                | H.G. Wells                                | 1897 | 20    |
 
-
 ### 2018
 
 | Month     | Type  | Title                                                                 | Author               | Year |
@@ -163,7 +193,6 @@ showReadingTime: false
 | Februrary | Main  | Rosewater                                                             | Tade Thompson        | 2016 |
 |           | Short | Who Will Greet You at Home                                            | Lesley Nneka Arimah  | 2015 |
 | January   | Main  | The Years of Salt and Rice                                            | Kim Stanley Robinsom | 2001 |
-
 
 ### 2017
 
