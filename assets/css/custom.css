@@ -1,0 +1,6 @@
+/* Fix long tables breaking out of article on mobile */
+table {
+    display: table;
+    overflow: auto;
+    width: 100%;
+}
