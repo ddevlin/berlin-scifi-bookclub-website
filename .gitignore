@@ -1,3 +1,5 @@
 .hugo_build.lock
 .vscode
 resources/_gen
+public
+.DS_Store
