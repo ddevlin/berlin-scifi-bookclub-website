@@ -1,9 +1,9 @@
 spec:
   name: berlin-scifi-bookclub-website
   static_sites:
-  - build_command: rm -r ./public; hugo --destination ./public
-    environment_slug: hugo
-    git:
-      branch: main
-      repo_clone_url: https://github.com/ddevlin/berlin-scifi-bookclub-website.git
-    name: berlin-scifi-bookclub-website
+    - build_command: rm -r ./public; git submodule update --init --recursive; hugo --destination ./public
+      environment_slug: hugo
+      git:
+        branch: main
+        repo_clone_url: https://github.com/ddevlin/berlin-scifi-bookclub-website.git
+      name: berlin-scifi-bookclub-website
