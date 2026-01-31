@@ -11,8 +11,6 @@ showReadingTime: false
 
 | Month     | Type | Title                                   | Author                 | Year | Pages |
 | --------- | ---- | --------------------------------------- | ---------------------- | ---: | ----: |
-| January   | Main | The Fortunate Fall                      | Cameron Reed           | 1997 |   288 |
-|           | Main | The Free People's Village               | Sim Kern               | 2023 |   400 |
 | February  | Main | Firefall                                | Peter Watts            | 2014 |   720 |
 |           | Main | All Tomorrows                           | C. M. Kösemen          | 2006 |   111 |
 | March     | Main | The Hollow Places                       | T. Kingfisher          | 2020 |   352 |
@@ -37,6 +35,13 @@ showReadingTime: false
 |           | Main | Dirk Gently's Holistic Detective Agency | Douglas Adams          | 1987 |   247 |
 
 ## Previous books
+
+### 2026
+
+| Month   | Type | Title                     | Author       | Year | Pages |
+| ------- | ---- | ------------------------- | ------------ | ---: | ----: |
+| January | Main | The Fortunate Fall        | Cameron Reed | 1997 |   288 |
+|         | Main | The Free People's Village | Sim Kern     | 2023 |   400 |
 
 ### 2025
 
